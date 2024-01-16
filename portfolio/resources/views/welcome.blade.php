@@ -116,14 +116,12 @@
         </div>
     </div>
     <!-- Contact -->
-    <div class="row pt-5">
-        <div class="col-md-6">
-            <h5 class="pt-3"><a href="mailto:kozhevnik1025@gmail.com" target="_top"><i class="fa-solid fa-envelope fa-lg"></i> kozhevnik1025@gmail.com</a></h5>
-            <h5 class="pt-3"><a href="https://www.linkedin.com/in/arthur-kozhevnik-09863b175/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn</a></h5>
-            <h5 class="pt-3"><a href="https://github.com/Gaben1025"><i class="fa-brands fa-github fa-lg"></i> Github</a></h5>
-        </div>
-        <div class="col-md-6">  
-        </div>
+    <div class="text-center">
+        <h5 class="pt-3"><a href="mailto:Kozhevnik1025@gmail.com" target="_top"><i class="fa-solid fa-envelope fa-lg"></i> Kozhevnik1025@gmail.com</a></h5>
+        <h5 class="pt-3"><a href="https://www.linkedin.com/in/arthur-kozhevnik-09863b175/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn</a></h5>
+        <h5 class="pt-3"><a href="https://github.com/Gaben1025"><i class="fa-brands fa-github fa-lg"></i> Github</a></h5>
+        <h5 class="pt-3"><a href="pdf_download.php?file=resume.pdf" target="_blank"><i class="fa-solid fa-download fa-lg"></i> Resume Copy</a></h5>
+
     </div>
     <div class="col-2"></div>
 </div>
