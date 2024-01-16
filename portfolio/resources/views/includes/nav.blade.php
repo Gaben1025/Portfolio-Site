@@ -20,7 +20,7 @@
           <a class="nav-link" href="#">// projects</a>
         </li>
         <li class="nav-item me-3">
-          <a class="nav-link" href="#">// projects</a>
+          <a class="nav-link" href="#">// certificates</a>
         </li>
         <li class="nav-item me-3">
           <a class="nav-link" href="#">// contact</a>
