@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+<nav class="navbar fixed-top navbar-expand-lg bg-dark" data-bs-theme="dark">
   <div class="container-fluid">
     <a class="ms-3 mb-3 navbar-brand" href="#">
       <span class="h4 text-primary-emphasis">Arthur Kozhevnik</span>
@@ -14,16 +14,16 @@
           <a class="nav-link" href="#">// home</a>
         </li>
         <li class="nav-item me-3">
-          <a class="nav-link" href="#">// experience</a>
+          <a class="nav-link" href="#experience">// experience</a>
         </li>
         <li class="nav-item me-3">
-          <a class="nav-link" href="#">// projects</a>
+          <a class="nav-link" href="#projects">// projects</a>
         </li>
         <li class="nav-item me-3">
-          <a class="nav-link" href="#">// certificates</a>
+          <a class="nav-link" href="#certificates">// certificates</a>
         </li>
         <li class="nav-item me-3">
-          <a class="nav-link" href="#">// contact</a>
+          <a class="nav-link" href="#contact">// contact</a>
         </li>
       </ul>
     </div>

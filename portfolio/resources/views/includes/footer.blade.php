@@ -1,17 +1,10 @@
-<footer class="text-center text-white">
-    <div class="container-lg">
-        <ul class="pt-3 list-inline">
-            <li class="list-inline-item"><a href="/">Home</a>&emsp;|</li>
-            <li class="list-inline-item"><a href="/legal">Legal</a>&emsp;|</li>
-            <li class="list-inline-item"><a href="#" data-bs-toggle="modal" data-bs-target="#modal">Contact</a></li>
-        </ul>
-        <ul class="pt-2 ps-5 list-inline">
-            <li class="list-inline-item"><a href="/obama-towing-law">What Changed In 2015?</a></li>
-            <li class="list-inline-item">|</li>
-            <li class="list-inline-item"><a href="/what-to-do-when-towed">What To Do When Towed?</a></li>
-            <li class="list-inline-item">|</li>
-            <li class="list-inline-item"><a href="/protections-explanation">What Do The Protections Mean?</a></li>
-        </ul>
-        </div>
+<footer class="text-center text-white bg-light bg-gradient py-5">
+    <!-- Contact -->
+    <div id="contact" class="text-center">
+        <h1><b>Contact Me</b></h1>
+        <h5 class="pt-3"><a href="mailto:kozhevnik1025@gmail.com"><i class="fa-solid fa-envelope fa-lg"></i> Kozhevnik1025@gmail.com</a></h5>
+        <h5 class="pt-3"><a href="https://www.linkedin.com/in/arthur-kozhevnik-09863b175/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn</a></h5>
+        <h5 class="pt-3"><a href="https://github.com/Gaben1025"><i class="fa-brands fa-github fa-lg"></i> Github</a></h5>
+        <h5 class="pt-3"><a href="resume.pdf" target="_blank"><i class="fa-solid fa-download fa-lg"></i> Resume</a></h5>
     </div>
 </footer> 
