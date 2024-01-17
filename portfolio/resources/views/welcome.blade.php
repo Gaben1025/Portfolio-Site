@@ -138,7 +138,7 @@
                 <h4 class="card-header">Towing Laws Site</h4>
                 <a href="https://www.towinglaws.com/" target="_blank"><img src="img/towing-laws.png" class="d-block mx-auto img-fluid"></a>
                 <div class="card-body">
-                    <div id="accordionTowingLaws" class="accordion"> <!-- Unique ID for the accordion -->
+                    <div id="accordionTowingLaws" class="accordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTowingLaws">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTowingLaws" aria-expanded="false" aria-controls="collapseTowingLaws">
@@ -148,8 +148,19 @@
                             <div id="collapseTowingLaws" class="accordion-collapse collapse" aria-labelledby="headingTowingLaws" data-bs-parent="#accordionTowingLaws">
                                 <div class="accordion-body">
                                     <p class="card-text">TowingLaws.com empowers users by offering accessible information on predatory towing laws. With user-friendly interfaces, it provides up-to-date details to make towing laws transparent and save consumers time on local and state legislation.</p>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Laravel</span>
                                     <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">PHP</span>
-                                </div>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Javascript</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">HTML5</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">CSS3</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">mySQL</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">ChatGPT</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Cloudflare</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">DigitalOcean</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Gitlab</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Jquery</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Bootstrap</span>
+                                 </div>
                             </div>
                         </div>
                     </div>
@@ -168,7 +179,7 @@
                 <h4 class="card-header">Temple Course Helper</h4>
                 <a href="https://github.com/cis3296s22/prj-05-tucoursehelper" target="_blank"><img src="img/temple-logo.jpg" class="d-block mx-auto img-fluid"></a>
                 <div class="card-body">
-                    <div id="accordionCourseHelper" class="accordion"> <!-- Unique ID for the accordion -->
+                    <div id="accordionCourseHelper" class="accordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingCourseHelper">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCourseHelper" aria-expanded="false" aria-controls="collapseCourseHelper">
@@ -178,6 +189,13 @@
                             <div id="collapseCourseHelper" class="accordion-collapse collapse" aria-labelledby="headingCourseHelper" data-bs-parent="#accordionCourseHelper">
                                 <div class="accordion-body">
                                     <p class="card-text">Temple Course Helper retrieves course details and teacher ratings from Temple University's website and Rate My Professor. It stores the information, including student ID, in a database. Users can view and opt to receive course-related details on screen.</p>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">C#</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Selenium Webdriver</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">SQL</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">MS Access</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Trello</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Github</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">TortoiseGit</span>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +215,7 @@
                 <h4 class="card-header">Sokroban Game</h4>
                 <a href="https://capstone-projects-2022-fall.github.io/project-sokroban/" target="_blank"><img src="img/sokroban.png" class="d-block mx-auto img-fluid"></a>
                 <div class="card-body">
-                    <div id="accordionSokroban" class="accordion"> <!-- Unique ID for the accordion -->
+                    <div id="accordionSokroban" class="accordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSokroban">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSokroban" aria-expanded="false" aria-controls="collapseSokroban">
@@ -207,13 +225,19 @@
                             <div id="collapseSokroban" class="accordion-collapse collapse" aria-labelledby="headingSokroban" data-bs-parent="#accordionSokroban">
                                 <div class="accordion-body">
                                     <p class="card-text">Sokroban is a fun puzzle game where you push boxes onto targets in single-player mode. In multiplayer, you can play with friends or challenge others online, making it a social experience. The game is easy to learn and easy to play.</p>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">C#</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Unity Engine</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Photon Engine</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Jira</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Github</span>
+                                    <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">TortoiseGit</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="card-body text-center">
-                    <a href="https://capstone-projects-2022-fall.github.io/project-sokroban/" target="_blank" class="card-link">Github</a>
+                    <a href="https://capstone-projects-2022-fall.github.io/project-sokroban/" target="_blank" class="card-link">Docusaurus</a>
                     <a href="https://play.unity.com/mg/other/webgl-builds-281781" target="_blank" class="card-link">Unity Play</a>
                 </div>
                 <div class="card-footer text-muted">
