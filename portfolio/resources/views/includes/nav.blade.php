@@ -1,9 +1,8 @@
-<nav class="navbar fixed-top navbar-expand-lg bg-dark" data-bs-theme="dark">
-  <div class="container-fluid">
-    <a class="ms-3 mb-3 navbar-brand" href="#">
+<nav class="navbar fixed-top navbar-expand-lg bg-dark navbar-unstyled" data-bs-theme="dark">  <div class="container-fluid">
+    <a class="ms-3 navbar-brand" href="#">
       <span class="h4 text-primary-emphasis">Arthur Kozhevnik</span>
-      <span class="h2 ">.</span>
-      <span class="h2 text-info">_</span>
+      <span class="h4 ">.</span>
+      <span class="h4 text-info">_</span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

@@ -23,7 +23,7 @@
     <div class="col-2"></div>
     <div class="col-8">
         <!-- Experience -->
-        <h1 class="text-center"><b>Professional Experience</b></h1>
+        <h1 class="text-center py-2"><b>Professional Experience</b></h1>
         <div id="accordionWork" class="accordion pt-3">
             <!-- Reed Tech Solution -->
             <div class="accordion-item">
@@ -130,8 +130,8 @@
 </div>
 
 <!-- Projects -->
-<div id="projects">
-    <h1 class="text-center pt-5"><b>Projects</b></h1>
+<div id="projects" class="py-5">
+    <h1 class="text-center pt-2"><b>Projects</b></h1>
     <div class="row pt-4">
         <div class="col-md-4">
             <div class="card mb-3">
@@ -228,7 +228,7 @@
 <div id="certificates" class="row py-5">
     <div class="col-2"></div>
     <div class="col-8">
-        <h1 class="text-center pt-5"><b>Certificates</b></h1>
+        <h1 class="text-center pt-2"><b>Certificates</b></h1>
         <div id="carouselCertificateFade" class="carousel slide carousel-fade pt-2">
             <div class="carousel-inner">
                 <div class="carousel-item active">
