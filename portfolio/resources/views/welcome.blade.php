@@ -42,11 +42,12 @@
                                 <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">HTML5</span>
                                 <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">CSS3</span>
                                 <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">mySQL</span>
+                                <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">ChatGPT</span>
                                 <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Cloudflare</span>
-                                <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">Digitalocean</span>
+                                <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">DigitalOcean</span>
                             </div>
                             <div class="col-2 d-flex align-items-center">
-                                <img src="rts.png" alt="RTS Logo" class="img-fluid p-0">
+                                <img src="img/rts.png" alt="RTS Logo" class="img-fluid p-0">
                             </div>
                         </div>            
                     </div>
@@ -78,7 +79,7 @@
                                 <span class="badge rounded-pill bg-info text-dark fs-6 me-2 my-1">MS Excel</span>
                             </div>
                             <div class="col-2 d-flex align-items-center">
-                                <img src="dreamline-logo.png" alt="Dreamline Logo" class="img-fluid p-0">
+                                <img src="img/dreamline-logo.png" alt="Dreamline Logo" class="img-fluid p-0">
                             </div>
                         </div>            
                     </div>
@@ -107,20 +108,55 @@
                                 <p class="pt-3">Worked with students after school to assist with classwork and homework. Helped teach subjects like math, english and science.</p>
                             </div>
                             <div class="col-2 d-flex align-items-center">
-                                <img src="ann-kids-logo.jpg" alt="Ann Kids Logo" class="img-fluid p-0">
+                                <img src="img/ann-kids-logo.jpg" alt="Ann Kids Logo" class="img-fluid p-0">
                             </div>
                         </div>            
                     </div>
                 </div>
             </div>
         </div>
+        <!-- Certificates -->
+        <h1 class="text-center pt-5"><b>Certificates</b></h1>
+        <div id="carouselCertificateFade" class="carousel slide carousel-fade pt-2">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <a href="https://www.credly.com/earner/earned/badge/e034223f-8f97-47e5-8c85-83f09a9ffed8">
+                    <img src="img/pcep-img.png" class="d-block mx-auto img-fluid" alt="First slide">
+                </a>
+                </div>
+                <div class="carousel-item">
+                <a href="https://www.parchment.com/u/award/10c554c5a8c4b3498950c08f2f805aba">
+                    <img src="img/diploma.png" class="d-block mx-auto img-fluid" alt="Second slide">
+                </a>
+                </div>
+                <div class="carousel-item">
+                <a href="https://www.credly.com/earner/earned/badge/06a3718c-72a3-4924-9dfe-d90d4ecb07f3">
+                    <img src="img/ms-office.png" class="d-block mx-auto img-fluid" alt="Third slide">
+                </a>
+                </div>
+                <div class="carousel-item">
+                <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ntSfTA6dag2pRsyrm_1694534560705_completion_certificate.pdf">
+                    <img src="img/forage-img.png" class="d-block mx-auto img-fluid" alt="Fourth slide">
+                </a>
+                </div>
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselCertificateFade" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselCertificateFade" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
     </div>
     <!-- Contact -->
     <div class="text-center">
-        <h5 class="pt-3"><a href="mailto:Kozhevnik1025@gmail.com" target="_top"><i class="fa-solid fa-envelope fa-lg"></i> Kozhevnik1025@gmail.com</a></h5>
+        <h5 class="pt-3"><a href="mailto:kozhevnik1025@gmail.com"><i class="fa-solid fa-envelope fa-lg"></i> Kozhevnik1025@gmail.com</a></h5>
         <h5 class="pt-3"><a href="https://www.linkedin.com/in/arthur-kozhevnik-09863b175/"><i class="fa-brands fa-linkedin fa-lg"></i> LinkedIn</a></h5>
         <h5 class="pt-3"><a href="https://github.com/Gaben1025"><i class="fa-brands fa-github fa-lg"></i> Github</a></h5>
-        <h5 class="pt-3"><a href="pdf_download.php?file=resume.pdf" target="_blank"><i class="fa-solid fa-download fa-lg"></i> Resume Copy</a></h5>
+        <h5 class="pt-3"><a href="resume.pdf" target="_blank"><i class="fa-solid fa-download fa-lg"></i> Resume</a></h5>
 
     </div>
     <div class="col-2"></div>
