@@ -256,23 +256,23 @@
         <div id="carouselCertificateFade" class="carousel slide carousel-fade pt-2">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <a href="https://www.credly.com/earner/earned/badge/e034223f-8f97-47e5-8c85-83f09a9ffed8">
-                    <img src="img/pcep-img.png" target="_blank" class="d-block mx-auto img-fluid" alt="First slide">
+                <a href="https://www.credly.com/earner/earned/badge/e034223f-8f97-47e5-8c85-83f09a9ffed8" target="_blank">
+                    <img src="img/pcep-img.png" class="d-block mx-auto img-fluid" alt="First slide">
                 </a>
                 </div>
                 <div class="carousel-item">
-                <a href="https://www.parchment.com/u/award/10c554c5a8c4b3498950c08f2f805aba">
-                    <img src="img/diploma.png" target="_blank" class="d-block mx-auto img-fluid" alt="Second slide">
+                <a href="https://www.parchment.com/u/award/10c554c5a8c4b3498950c08f2f805aba" target="_blank">
+                    <img src="img/diploma.png" class="d-block mx-auto img-fluid" alt="Second slide">
                 </a>
                 </div>
                 <div class="carousel-item">
-                <a href="https://www.credly.com/earner/earned/badge/06a3718c-72a3-4924-9dfe-d90d4ecb07f3">
-                    <img src="img/ms-office.png" target="_blank" class="d-block mx-auto img-fluid" alt="Third slide">
+                <a href="https://www.credly.com/earner/earned/badge/06a3718c-72a3-4924-9dfe-d90d4ecb07f3" target="_blank">
+                    <img src="img/ms-office.png" class="d-block mx-auto img-fluid" alt="Third slide">
                 </a>
                 </div>
                 <div class="carousel-item">
-                <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ntSfTA6dag2pRsyrm_1694534560705_completion_certificate.pdf">
-                    <img src="img/forage-img.png" target="_blank" class="d-block mx-auto img-fluid" alt="Fourth slide">
+                <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ntSfTA6dag2pRsyrm_1694534560705_completion_certificate.pdf" target="_blank">
+                    <img src="img/forage-img.png" class="d-block mx-auto img-fluid" alt="Fourth slide">
                 </a>
                 </div>
 
