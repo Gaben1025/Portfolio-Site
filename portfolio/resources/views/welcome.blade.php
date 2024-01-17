@@ -9,11 +9,21 @@
 
 @section('content')
 
-<!-- Experience -->
+<!-- Intro -->
 <div class="row mt-5 py-5">
+    <div class="col-3"></div>
+    <div class="col-6 border border-white">
+        <h1 class="text-center"><b>About Me</b></h1>
+        <h5 class="py-3 text-body text-center">I'm a Software Engineer with a focus on full-stack development, actively contributing to user-friendly website creation. My expertise spans front-end and back-end aspects, showcasing versatility in various web development technologies. Proficient in designing responsive interfaces, optimizing database management, and implementing automated data processes, my passion lies in programming and creating efficient solutions.</h5>
+    </div>
+    <div class="col-3"></div>
+</div>
+<!-- Experience -->
+<div id="experience" class="row py-5">
     <div class="col-2"></div>
     <div class="col-8">
-        <h1 id="experience" class="text-center"><b>Professional Experience</b></h1>
+        <!-- Experience -->
+        <h1 class="text-center"><b>Professional Experience</b></h1>
         <div id="accordionWork" class="accordion pt-3">
             <!-- Reed Tech Solution -->
             <div class="accordion-item">
@@ -120,8 +130,8 @@
 </div>
 
 <!-- Projects -->
-<div>
-    <h1 id="projects" class="text-center pt-5"><b>Projects</b></h1>
+<div id="projects">
+    <h1 class="text-center pt-5"><b>Projects</b></h1>
     <div class="row pt-4">
         <div class="col-md-4">
             <div class="card mb-3">
@@ -132,7 +142,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTowingLaws">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTowingLaws" aria-expanded="false" aria-controls="collapseTowingLaws">
-                                    <h6 class="card-subtitle text-muted">Full stack development on towinglaw.com</h6>
+                                    <h6 class="card-subtitle text-muted">Full stack development on Towinglaws.com</h6>
                                 </button>
                             </h2>
                             <div id="collapseTowingLaws" class="accordion-collapse collapse" aria-labelledby="headingTowingLaws" data-bs-parent="#accordionTowingLaws">
@@ -215,10 +225,10 @@
 </div>
 
 <!-- Certificates -->
-<div class="row py-5">
+<div id="certificates" class="row py-5">
     <div class="col-2"></div>
     <div class="col-8">
-        <h1 id="certificates" class="text-center pt-5"><b>Certificates</b></h1>
+        <h1 class="text-center pt-5"><b>Certificates</b></h1>
         <div id="carouselCertificateFade" class="carousel slide carousel-fade pt-2">
             <div class="carousel-inner">
                 <div class="carousel-item active">
