@@ -11,12 +11,12 @@
 
 <!-- Intro -->
 <div class="row mt-5 py-5">
-    <div class="col-3"></div>
-    <div class="col-6 border border-white">
+    <div class="col-md-3"></div>
+    <div class="col-md-6 border border-white">
         <h1 class="text-center"><b>About Me</b></h1>
         <h5 class="py-3 text-body text-center">I'm a Software Engineer with a focus on full-stack development, actively contributing to user-friendly website creation. My expertise spans front-end and back-end aspects, showcasing versatility in various web development technologies. Proficient in designing responsive interfaces, optimizing database management, and implementing automated data processes, my passion lies in programming and creating efficient solutions.</h5>
     </div>
-    <div class="col-3"></div>
+    <div class="col-md-3"></div>
 </div>
 <!-- Experience -->
 <div id="experience" class="row py-5">
